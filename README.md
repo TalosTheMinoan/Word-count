@@ -13,4 +13,4 @@ This Python program is a simple tool that counts the number of words, characters
 3. If you enter a file path, the program will read the contents of the file. Otherwise, it will treat the input as raw text.
 4. The program will then display the word count, character count, and line count for the input text.
 
-## Example
+
